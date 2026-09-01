@@ -1,0 +1,15 @@
+{
+  "name": "task-health-api",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A small dependency-free Node.js REST API for portfolio and learning.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test_server.js"
+  },
+  "license": "MIT"
+}
